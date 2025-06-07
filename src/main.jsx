@@ -10,23 +10,15 @@ import UseState from './UseState';
 import UseEffect from './UseEffect';
 import Forms from './Forms';
 import Userdatashow from './Userdatashow';
+import App from './App';
 
 createRoot(document.getElementById('root')).render(
 
 
   <StrictMode>
-    {/* <App /> */}
-          {/* <About name="jay" city="jaipur" /> */}
-          {/* <MyForm /> */}
-          {/* <Greeting name="Gajendra" />} */}
-          {/*<Profile />*/}
-          {/* // <UseEffect /> */}
-          {/* <UserCard name="Gajendra Singh" age="21" location="Mandsaur"/> */}
-          {/* <Event /> */}
-          {/* <UseState /> */}
-    <Forms />
     
-    <Userdatashow />
+         
+<App/>
   </StrictMode>
 )
 
