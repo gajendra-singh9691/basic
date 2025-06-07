@@ -1,0 +1,23 @@
+section{
+    width: 40%;
+    padding: 1rem;
+    background-color: hsla(0, 0%, 0%, 0.616);
+    margin: 3rem 0;
+    color: #ffffff;
+    border-radius: 1rem;
+}
+
+h1{
+    font-size: 3rem;
+    background: none;
+}
+
+.name{
+    color: red;
+}
+
+p{
+    font-size: 2rem;
+    background: none;
+    font-weight: 700;
+}
